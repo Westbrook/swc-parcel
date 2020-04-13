@@ -1,0 +1,16 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "@spectrum-web-components/bundle": "^0.8.1",
+    "@spectrum-web-components/button": "^0.4.8",
+    "@spectrum-web-components/theme": "^0.3.2",
+    "lit-element": "^2.1.0",
+    "lit-html": "^1.0.0"
+  }
+}
